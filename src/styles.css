@@ -79,3 +79,7 @@ button:focus {
 .comb-button {
   margin-left: 3rem;
 }
+.heading {
+  position: sticky;
+  top: 0;
+}

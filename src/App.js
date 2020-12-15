@@ -158,7 +158,7 @@ export default function App() {
   }
   return (
     <div className="App">
-      <div style={{ backgroundColor: "#edf5e1" }}>
+      <div class="heading" style={{ backgroundColor: "#edf5e1" }}>
         <span className="head">MUST WATCH</span>
       </div>
       <div class="comb-button">
